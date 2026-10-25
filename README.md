@@ -1,1 +1,3 @@
-Hello! It is rather empty here at the moment... maybe check back later? :)
+Website containing portfolio work, my contact details and more moving forward.
+
+Website design template provided by https://html5up.net
